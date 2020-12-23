@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Coding Quiz</title>
+  ​
+  <link rel="stylesheet" href="./styles.css" />
+
+</head>
+​
+
+<body>
+  <div class="scores"><a href="highscore.html">View Hall of Java</a></div>
+  ​
+  <div class="timer">Seconds Remaining: <span id="time">0</span></div>
+  ​
+  <div class="container">
+    <div id="homescreen" class="start">
+      <h2>Rob's Ultimate Javascript Fundamental Showdown!</h2>
+      <p>
+        Come one, come all! Take your chance at "Rob's Ultimate Javascript Fundamental Showdown!". Here you will be
+        challenged with the difficult task of completing 6 questions that will test your js skills to the fullest
+        extent.
+        Upon starting you will have 1.5 minutes total to answer. Keep in mind, any wrong answers will subtract 7 seconds
+        from the remaining time. Shall you succeed, you will be prompted to enter your nickname and join the elite in
+        the Hall of Java!
+      </p>
+      <button id="start">Ready?</button>
+    </div>
+    ​
+    <div id="questions" class="hide">
+      <h2 id="questiontitle"></h2>
+      <div id="options" class="options"></div>
+    </div>
+    ​
+    <div id="endscreen" class="hide">
+      <h2>Either you scored well or you ran out of time and could use the assistance of a scientist with a dolorean!
+      </h2>
+      <p>You scored: <span id="yourscore"></span>.</p>
+      <p>
+        What shall we call you? <input type="text" id="initials" max="3" />
+        <button id="submit">Submit</button>
+      </p>
+    </div>
+    ​
+    <div id="answerchecker" class="answerchecker hide"></div>
+  </div>
+  ​
+  <script src="./logic.js"></script>
+</body>
+
+</html>
