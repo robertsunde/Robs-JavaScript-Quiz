@@ -10,19 +10,19 @@ The content is available over the internet and does not require installation of 
 The web application is designed to ask the user questions regarding JavaScript.
 
 Upon loading, the title of the quiz as well as a brief discription will be displayed in a container in the center of the screen. A link to the "Hall of Java" (highscores) will be displayed on the top-left of screen. A "seconds remaining" countdown timer will be displayed at the top-right of screen awaiting the start of the quiz.
-![home-screen](https://user-images.githubusercontent.com/73792987/102440615-9042df00-3fee-11eb-85fc-b71d229ece7f.jpg)
+![home-screen](https://user-images.githubusercontent.com/73792987/103061306-f09ac900-4578-11eb-8490-09edc650351c.png)
 
 To start the quiz, the "Ready?" button must be clicked as shown. This will start a 90 second timer and start the quiz. For every wrong answer, 7 seconds will be subtracted from the "Seconds Remaining" on top-right of screen.
-![quiz-start](https://user-images.githubusercontent.com/73792987/102440750-d1d38a00-3fee-11eb-9169-5f6923dc16f2.jpg)
+![quiz-start](https://user-images.githubusercontent.com/73792987/103061319-027c6c00-4579-11eb-9e6d-200959551041.png)
 
 From here, the first question will be shown on the screen. The user will be prompted to answer each question in multiple-choice form. Depending on a right/wrong answer, a reaction will appear briefly at the bottom of the container.
-![questions](https://user-images.githubusercontent.com/73792987/102440703-bd8f8d00-3fee-11eb-8586-586c797ffca6.jpg)
+![questions](https://user-images.githubusercontent.com/73792987/103061338-0f995b00-4579-11eb-8449-77fc8ae6075e.png)
 
 Upon finishing the quiz, the user will be prompted to enter a name to submit to the "Hall of Java". The user must click "submit" after entering a name.
-![enter-name](https://user-images.githubusercontent.com/73792987/102440794-e879e100-3fee-11eb-9902-0dae6d1d3c62.jpg)
+![enter-name](https://user-images.githubusercontent.com/73792987/103061354-19bb5980-4579-11eb-8f71-f582d255edd6.png)
 
 Lastly, the user will reach the "Hall of Java" page. Here the user will be prompted to "Try Again!" (which will take the user back to the beginning of the quiz) or "Reset Scores" (which will clear the saved scores from the Hall of Java).
-![hall-of-java](https://user-images.githubusercontent.com/73792987/102440862-0cd5bd80-3fef-11eb-87a8-49c955a3063e.jpg)
+![hall-of-java](https://user-images.githubusercontent.com/73792987/103061370-263fb200-4579-11eb-9656-230deb77f228.png)
 
 
 
