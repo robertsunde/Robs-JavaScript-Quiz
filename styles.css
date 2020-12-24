@@ -37,6 +37,14 @@ body {
     display: block;
   }
 
+  .answerchecker {
+    font-style: italic;
+    font-size: 150%;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+  }
+  
   input[type="text"] {
     font-size: 100%;
   }
@@ -83,14 +91,6 @@ body {
     top: 15px;
     left: 15px;
     font-size: 100%;
-  }
-
-  .answerchecker {
-    font-style: italic;
-    font-size: 150%;
-    margin-top: 20px;
-    padding-top: 10px;
-    color: rgb(0, 0, 0);
   }
   
   .timer {

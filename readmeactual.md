@@ -16,13 +16,13 @@ To start the quiz, the "Ready?" button must be clicked as shown. This will start
 ![quiz-start](https://user-images.githubusercontent.com/73792987/102440750-d1d38a00-3fee-11eb-9169-5f6923dc16f2.jpg)
 
 From here, the first question will be shown on the screen. The user will be prompted to answer each question in multiple-choice form. Depending on a right/wrong answer, a reaction will appear briefly at the bottom of the container.
-![enter-characters](https://user-images.githubusercontent.com/73792987/102440703-bd8f8d00-3fee-11eb-8586-586c797ffca6.jpg)
+![questions](https://user-images.githubusercontent.com/73792987/102440703-bd8f8d00-3fee-11eb-8586-586c797ffca6.jpg)
 
 Upon finishing the quiz, the user will be prompted to enter a name to submit to the "Hall of Java". The user must click "submit" after entering a name.
-![follow-prompts](https://user-images.githubusercontent.com/73792987/102440794-e879e100-3fee-11eb-9902-0dae6d1d3c62.jpg)
+![enter-name](https://user-images.githubusercontent.com/73792987/102440794-e879e100-3fee-11eb-9902-0dae6d1d3c62.jpg)
 
 Lastly, the user will reach the "Hall of Java" page. Here the user will be prompted to "Try Again!" (which will take the user back to the beginning of the quiz) or "Reset Scores" (which will clear the saved scores from the Hall of Java).
-![password-reveal](https://user-images.githubusercontent.com/73792987/102440862-0cd5bd80-3fef-11eb-87a8-49c955a3063e.jpg)
+![hall-of-java](https://user-images.githubusercontent.com/73792987/102440862-0cd5bd80-3fef-11eb-87a8-49c955a3063e.jpg)
 
 
 
@@ -30,5 +30,6 @@ Lastly, the user will reach the "Hall of Java" page. Here the user will be promp
 The Website and development was created with help/information/guidance/images from:
 Mimo (iphone application)
 w3schools.com (website)
-https://www.teahub.io/viewwp/xbwJTJ_electronics-old-circuit-cpu-circuit-board-mother-electronics
 https://www.kaspersky.com/blog/amazing-internet-maps/10441/
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+https://stackoverflow.com/
