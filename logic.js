@@ -1,13 +1,13 @@
 var currentQuestionIndex = 0;
 var timerId;
 // variable list
+var startBtn = document.getElementById("start");
 var questionsEl = document.getElementById("questions");
 var timerEl = document.getElementById("time");
 var optionsEl = document.getElementById("options");
-var submitBtn = document.getElementById("submit");
-var startBtn = document.getElementById("start");
 var initialsEl = document.getElementById("initials");
 var answerCheckerEl = document.getElementById("answerchecker");
+var submitBtn = document.getElementById("submit");
 
 var questions = [
 
